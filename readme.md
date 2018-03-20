@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is  application based on React.js and Meteor.js.
+This is an application build in Meteor.js and React.js.
 It was created fallowing course on Udemy.com
 
 ## Author
